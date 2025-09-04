@@ -1,0 +1,2 @@
+welcome to aws ec2 server creation 
+instance size =g2.large
